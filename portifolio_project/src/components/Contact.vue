@@ -11,8 +11,8 @@
         </form>
         <div class="social-links">
             <h3>Minhas Redes</h3>
-            <a href="#" target="_blank"><i class="devicon-github-original"></i> GitHub</a>
-            <a href="#" target="_blank"><i class="devicon-linkedin-plain"></i> LinkedIn</a>
+            <a href="https://github.com/DevGuime" target="_blank"><i class="devicon-github-original"></i> GitHub</a>
+            <a href="https://www.linkedin.com/in/guilherme-sim%C3%B5es-293277186/" target="_blank"><i class="devicon-linkedin-plain"></i> LinkedIn</a>
         </div>
     </div>
   </section>

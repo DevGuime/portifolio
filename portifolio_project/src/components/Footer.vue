@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>&copy; 2025 [Seu Nome]. Todos os direitos reservados.</p>
+    <p>&copy; 2025 Guilherme Simoes. Todos os direitos reservados.</p>
   </footer>
 </template>
 
